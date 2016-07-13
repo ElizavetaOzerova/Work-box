@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+div {
+  background-color: #ccc;
+  border: 1px solid #000;
+  font-size: 85px;
+  box-sizing: border-box;
+  padding-left: 20px;
+}
+.one {
+  min-height: 100px;
+}
+.two, .three {
+  min-height: 1500px;
+  max-width: 600px;
+  margin: 100px auto;
+  line-height: 1500px;
+}
+.three {
+  
+}
+.four {
+  height: 1500px;
+  line-height: 1500px;
+}
